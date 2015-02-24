@@ -16,13 +16,19 @@ que foi utilizada em uma aplicação complexa que possui várias Threads e até 
 
 # Como usar JSMutable
 Abaixo estou descrevendo como usar JSMutable
+
 1 - Baixe o projeto em seu computador
 
 2 - Abra o mesmo no Netbeans ou adapte para sua IDE
+
 3 - Leia a documentação que se encontra no arquivo jsm.Mutable.java
+
 4 - Leia a documentação que se encontra no arquivo ComoUsar.java
+
 5 - Execute o comando "Limpar e construir"
+
 6 - Execute o projeto
+
 7 - Respeitando as regras do MIT, use o projeto para sua necessidade
 
 #Obs:
