@@ -55,7 +55,7 @@ import java.util.Arrays;
 /**
  * 
  * O objeto da classe derivada de <code>Mutable</code>
- * pode ser convertido em array de bytes para posteriormente 
+ * pode ser convertido em array de bytes para depois 
  * ser convertido novamente para um novo objeto
  * 
  * Todas vez que digo "primitivos" na documentação abaixo
