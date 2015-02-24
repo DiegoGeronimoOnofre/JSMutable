@@ -94,7 +94,7 @@ import java.util.Arrays;
  * unidade de armazenamento permanente como o HD
  * Para restaurar o objeto novamente a partir do vetor
  * de bytes gerado pelo método <code>toBytes()</code>, 
- * use o método static <code>toObject()</code> e logo 
+ * use o método static <code>bytesToObject()</code> e logo 
  * em seguida faça o downcast
  * 
  * Eu não recomendo a inserção de novos atributos 
