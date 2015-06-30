@@ -1,7 +1,7 @@
 #A final o que é JSMutable
 JSMutable - Java Simple Mutable
 
-  É uma biblioteca para a serialização de objetos em Java criada por Diego Geronimo D Onofre com licença MIT
+  É uma biblioteca para a serialização de objetos em Java criada por Diego com licença MIT
 que utiliza programação reflexiva nos principais métodos de serialização e validação da estruturação das classe que
 herdam jsm.Mutable. Para quem está querendo saber como um objeto pode ser serializado utilizando o framework Java de 
 programação reflexiva este projeto é sua solução. Se você está querendo usar uma forma alternativa para serializar objetos
