@@ -36,6 +36,4 @@ Abaixo estou descrevendo como usar JSMutable
 Se pretendo somente usar o jar, recomendo que leia a documentação
 que está nos códigos fontes jsm.Mutable.java e application.ComoUsar.java
 
-Perfil Facebook: https://www.facebook.com/diegogeronimoonofre
-
 Canal Youtube: https://www.youtube.com/user/cursostd
